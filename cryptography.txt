@@ -40,6 +40,11 @@ fixed output length.
 MD5 = uses 128 it 
 
 
+Digital signatures: 
+DSA - generate public and private key pairs
+RSA(Rivest-Shamir Adelman) a symmetric algorithms
+ECDSA( Elliptic Curve Digital Signature) = 
+
 Use openssl to encrypt the file text
 openssl aes-256-cbc -in letter_to_grandma.txt -out message.enc
 enter password to encrypt the file 
@@ -57,6 +62,17 @@ zip -e file-1.zipsample*
 
 VERIFY ZIPED FILES:  ls -l f*
 RECOVER ZIP FILES Pass : fcrackzip -vul 1-4 file-1.zip
+
+
+Public key cryptography
+generate and use digital signature 
+
+generate private key :  openssl genpkey -algorithm RSA -out private_key.pem
+generate public key : openssl -in private_key.pem -pubout -out public_key.pem
+
+sign file with private key:  openssl dgst -sha256 -sign private_key.pem -out signature contract.txt
+
+verify integrity: openssl dgst -sha256 -verify public_key.pem -signature signature contract.txt
 
 
 
