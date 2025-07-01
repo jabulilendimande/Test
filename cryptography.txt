@@ -1,0 +1,64 @@
+symmetric encryption   uses Data encryption standard , 3des and Advanced encryption standard(AES)
+uses same key 
+key lengths( 40 bits , 245 bits)
+for VPN traffic
+
+asymmetric
+uses different key to encrypt and decrypt
+key lengths ( 512 , 4096 bits ).
+for HTTPS
+algorithms( Diffie-Hellman , Digital signature standard , Rivest , Adleman encryption algorithm  , ELGamal , Elliptic curve 
+
+
+Public key infrastructure.
+
+
+Type of ciphers 
+block cipher transform fixed length block of plain text into ciphertext of 64 and 128
+stream cipher encrypt one byte at a time , 
+
+
+Authentication - private key + public key 
+
+Hashes , more secure ( SHA-3)
+
+
+
+
+Data masking: making sensitive data look non sensitive
+
+Steganography : hides sensitive data though graphic audio and video
+
+social steganography > using another text to convey sensitive text (only people who are waiting for message will understand the text)
+
+steganalysis a method used to discover hidden information
+
+pixel Is the basic unit of programmable color in computer image
+
+Hashing = H(x) 
+fixed output length.
+MD5 = uses 128 it 
+
+
+Use openssl to encrypt the file text
+openssl aes-256-cbc -in letter_to_grandma.txt -out message.enc
+enter password to encrypt the file 
+
+covert file  to encoded text from binary 
+openssl aes-256-cbc -a -in letter_to_grandma.txt -out message.enc
+
+use openssl to decrypt the file
+openssl aes-256-cbc -a -d -in message.enc -out decrypted_letter.txt
+openssl  user AES-decryption openssl_use_Base64 decrypt thisfile print_this_file
+
+using hackertool to encrypt the files
+
+zip -e file-1.zipsample*
+
+VERIFY ZIPED FILES:  ls -l f*
+RECOVER ZIP FILES Pass : fcrackzip -vul 1-4 file-1.zip
+
+
+
+
+

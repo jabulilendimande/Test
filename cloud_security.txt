@@ -1,0 +1,30 @@
+1 hypevisor  - runs directly on the hardware
+|| hypervisor - run on host machine , used to create virtual machine
+
+private cloud - is internal  for corporate , organization has control over its data. 
+
+fog computing : works between data center and device 
+inside the LAN data is processed within the IoT gateway
+
+vm sprawl - too many underutilized vm servers use up more resources and space than needed
+
+DOMAINS
+
+concepts and architecture : terminology , details of framework used in security guidance
+governance enterprise and risk management : 
+compliance and audit management : challenges in delivering ,measuring and communicating when migrating from traditional data centers to the cloud 
+
+
+software as service     access software and database  
+infrastructure as service  using virtual resource over the internet
+platform as service    access tools and services  to deliver application remotely  
+
+
+developing and testing  in the development environment
+
+Normalization is used to organize data in a database and help maintain data integrity.
+stored procedure is a group of precompiled SQL statements stored in a database that execute a task.
+Obfuscation hides original data with random characters or data
+camouflage replaces sensitive data 
+
+validating the user input rules have(size , format , consistency code , range , check digit )
