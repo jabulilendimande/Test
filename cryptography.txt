@@ -67,12 +67,18 @@ RECOVER ZIP FILES Pass : fcrackzip -vul 1-4 file-1.zip
 Public key cryptography
 generate and use digital signature 
 
-generate private key :  openssl genpkey -algorithm RSA -out private_key.pem
+generate private key :  openssl genpkey -algorithm RSA -out private_key.pem(file containing the key)
 generate public key : openssl -in private_key.pem -pubout -out public_key.pem
+
+ cat filename  - to view content of the key
 
 sign file with private key:  openssl dgst -sha256 -sign private_key.pem -out signature contract.txt
 
 verify integrity: openssl dgst -sha256 -verify public_key.pem -signature signature contract.txt
+
+simulate  threat (  gedit filename)
+
+verify integrity :
 
 
 
