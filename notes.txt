@@ -1,0 +1,25 @@
+configure control access control
+
+
+configure authentication and authorization 
+get into    sudo su
+add group/ folder   groupadd nameGroup
+verify    cat /etc/group
+
+adduser userName 
+
+move user to the group     usermod -G groupName   userName
+HR:x:1009:
+
+
+way to assign permision 
+
+7   read,write,execute 
+6 read,write
+5 read,execute
+4 read
+3 write ,execute
+2  write
+1 execute
+o0 none
+example  chmod  764(user)(group)(other)
