@@ -21,5 +21,8 @@ way to assign permision
 3 write ,execute
 2  write
 1 execute
-o0 none
+0 none
 example  chmod  764(user)(group)(other)
+
+
+TACACS - terminal access controller access-control
