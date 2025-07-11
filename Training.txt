@@ -1,0 +1,11 @@
+signature   and out of office  
+
+on ad user  profile SD(111.9) then will sink to office 365
+2. general  >  update the user details 
+
+Admin portal for client ( use details on SharePoint) 
+
+go to credentials > emails tab > 
+
+logon to the admin > admin > admin center > exchange > mailboxes > click user > others > automatic replies(manage)  > toggle on > 
+fill up date and  add message 
