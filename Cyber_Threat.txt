@@ -1,0 +1,51 @@
+Call center ( SO -AD) 
+Strauss ( .119 ) 
+Mimecast ( iconis password   " 1Con1$Adm!" )
+
+
+Protocol analyzer
+
+perform network test (nmap/zenmap -for classic tcp and udp port scanning and sweeping
+, superscan  - Microsoft windows port scanning tool
+, SIEM - provides correlation , aggregation , forensic analysis and retention
+, GFI LANguard , TipWire, Nessus , L0pthCrack. Metasploit
+
+SIEM and SOAR
+
+nbtstat - Command used to troubleshoot NetBIOS on Windows
+
+SANS - SysAdmin , Audit , Network , Security
+
+
+Threat Intelligence services: 
+FireEye Helix is a security operations platform that integrates and enhances diverse security tools and threat intelligence.
+Talos - world leading threat intelligence team with a goal to help protect enterprise users, data, and infrastructure from active adversaries
+AIS -   free service that is offered by the U.S. Department of Homeland Security
+
+sharing specifications
+
+STIX - exchanging cyber threat protection between organizations
+TAXII - application layer protocol to allow the communication of CTI
+CybOX - schema for specifying , capturing and characterising events and properties of net operations
+
+
+
+Major types of threat intelligence 
+1) Indicators of compromise 
+2) Tool, techniques , procedures
+3) Reputation information(destinations or domains)
+
+Endpoint vulnerability Assessment
+
+server profile elements [ listening ports , logged user and acct , service acct , software enviro ] 
+Network profile [ session duration , total throughput , ports used , critical asset address space ] 
+
+common vulnerability scoring system
+-Base metric group  are constant over time and across context. 
+-Temporal metric  may change over time, severity of a vulnerability will change as it is detected and measures to counter it are developed.
+-environmental group ( modified, confidentiality , integrity , availability) > are rooted in a specific organization’s environment
+
+
+Risk Management Process: 
+measuring the impact of threat and cost 
+frame , assess ,respond ,monitor.

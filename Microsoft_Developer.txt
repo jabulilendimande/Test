@@ -1,0 +1,19 @@
+Azure app services - http based service for hosting we applications, rest apis and mobile backend.
+
+az webapp list-runtimes --os-type Linux  ( to find list of languages and their updated versions on APP services  EG Java SE with embedded web-server).
+
+type of deployments 
+
+multitenant 
+single-tenant
+
+Set variables to hold the resource group and app names by running the following commands.
+
+Bash
+
+Copy
+resourceGroup=$(az group list --query "[].{id:name}" -o tsv)
+appName=az204app$RANDOM
+
+Installing SSL/TSL certificate to secure web traffic:
+

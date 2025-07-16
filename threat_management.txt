@@ -1,0 +1,44 @@
+security policies 
+-identification and authentication
+-password 
+-acceptable use
+-remote access
+-network maintenance
+-incident handling
+-data 
+-credential 
+-organizational
+
+Ten commandments of computer ethics
+
+cyber laws
+
+1. statutory law 
+2. administrative law
+3. common law
+
+
+family education records and privacy act - federal law that governs access to education records. Operates in an opt-in basis , parent must approve the disclosure of student educational info
+children online privacy protection - protect children under 13 years by imposing certain requirements on website operators
+Privacy - helps ensure organizational compliance with the law 
+Privacy impact assessment - process that helps ensure personally identifiable information is properly handled throughout an organization
+
+
+Domains of cybersecurity
+
+Risk assessment
+security policy
+organization of information security 
+asset management
+human resources security
+physical and environmental security
+communications and operations management
+information systems acquisition, development and maintenance
+access control
+information security incident management
+compliance
+
+CIS Critical security controls (Center for Internet Security)
+Basic controls
+Foundational controls
+Organizational
