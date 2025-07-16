@@ -29,7 +29,6 @@ TAXII - application layer protocol to allow the communication of CTI
 CybOX - schema for specifying , capturing and characterising events and properties of net operations
 
 
-
 Major types of threat intelligence 
 1) Indicators of compromise 
 2) Tool, techniques , procedures
@@ -49,3 +48,9 @@ common vulnerability scoring system
 Risk Management Process: 
 measuring the impact of threat and cost 
 frame , assess ,respond ,monitor.
+
+threat source type :
+adversarial
+accidental 
+structural
+environmental
