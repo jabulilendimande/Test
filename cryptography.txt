@@ -81,14 +81,12 @@ simulate  threat (  gedit filename)
 verify integrity :
 
 
-PKI trust system using topoloies :   star , bus , ring , mesh , tree
 
-Gather cenrtificate fngerprints  using termina commands
-1 :   echo -n | openssl s_client -connect cisco.com:443 | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > ./cisco.pem
-                                          site(url)                                                               file_to_save_to
 
-Find the fingerprint
-2 : openssl x509 -noout -in cisco.pem -fingerprint -sha1
+Device end logs : 
+
+Priority = facility*8 + severity    of alert
+
 
 
 
