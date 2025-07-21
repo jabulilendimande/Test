@@ -54,3 +54,16 @@ adversarial
 accidental 
 structural
 environmental
+
+
+
+
+
+
+
+
+Digital Forensics and Incident Analysis and Response
+collect(media) , examine(data) , analyse(information) , report(evidence)
+
+Types of evidence:
+Best evidence - in its original state 
