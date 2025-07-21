@@ -26,6 +26,9 @@ Privacy impact assessment - process that helps ensure personally identifiable in
 
 Domains of cybersecurity
 
+Risk is probability of loss due to threat that damages information system.
+Buying something to prevent risk is traference
+
 Risk assessment
 security policy
 organization of information security 
@@ -42,3 +45,15 @@ CIS Critical security controls (Center for Internet Security)
 Basic controls
 Foundational controls
 Organizational
+
+
+Functional Security controls: 
+preventive(stops unwanted activities to happen), deterrent(discourage something from happening - does not stop it completely) , detective(identifies different type of activities)  , corrective( restore to state of CIA) , recovery( repair demae , restore to normal state more advanced that corrective)  , compensative/alternative ( provide options to make security policy better )
+
+
+Managing Risk 
+
+Avoidance - complete removal or elimination of risk 
+Mitigation - implementing controls that allow organization to perform activities while using mechanism to reduce the risk
+Transfer
+Accept - 
