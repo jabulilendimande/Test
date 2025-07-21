@@ -67,3 +67,5 @@ collect(media) , examine(data) , analyse(information) , report(evidence)
 
 Types of evidence:
 Best evidence - in its original state 
+Corroborating - support assertion derived fron best evidence
+Indirect evidence - estblishes the hypothesis
