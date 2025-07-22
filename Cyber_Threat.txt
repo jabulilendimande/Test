@@ -55,6 +55,14 @@ accidental
 structural
 environmental
 
+Vulnerability Management Life cycle: 
+Discover(assets inventory)
+Prioritize assets( categorize assets
+Assess(Determine a baseline risk profile to eliminate risks based on asset criticality, vulnerability, threats, and asset classification.)
+Report( measure level of business risk)
+Remediate
+Verify(if threat has been eliminated)
+
 
 
 
