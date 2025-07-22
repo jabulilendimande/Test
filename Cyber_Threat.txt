@@ -90,9 +90,21 @@ Command and Control
 Action on Objectives
 
 
+Diamon Model Overview(Intrusion Analysis)
+Adversary - parties responsible for intrusion
+Capability - tool used to attack the victim
+Infrastructure - network path used to establish and maintain cmd 
+Victim - target of the attacker
 
+Timestamp start and stop of an event 
+Phase steps in cyber kill chain
+Result what was gained fron the event
+Direction
+Methodology describe general type of eent(port scan , phishing  syn flood)
+Resources 
 
-
+Adversary >(develops)>Capability >(exploits)>Victim
+Adversary > (uses) > Infrastructure >(connect to)> Victim
 
 
 
