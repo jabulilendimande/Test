@@ -71,6 +71,26 @@ Passive network monitoring
 
 
 
+Cyber Kill Chain ( Mitre ATT&CK )
+
+Reconnaissance (research target) - 
+> playbook to detect behavior indicating suspicious activity
+
+Weaponization (use vulnerabilities of assests to build weapon[malware]
+Delivery
+
+Exploitation
+
+Installation (install backdoor on target malware)
+> HIPS to alert and block installation paths
+>endpoint audit , doscover abnormal file creations
+
+Command and Control
+
+Action on Objectives
+
+
+
 
 
 
