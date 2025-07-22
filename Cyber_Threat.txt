@@ -64,6 +64,12 @@ Remediate
 Verify(if threat has been eliminated)
 
 
+Patch management techniques:
+Agent based
+Agentless scanning
+Passive network monitoring
+
+
 
 
 
