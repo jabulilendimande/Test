@@ -115,3 +115,22 @@ Types of evidence:
 Best evidence - in its original state 
 Corroborating - support assertion derived fron best evidence
 Indirect evidence - estblishes the hypothesis
+
+Incident response stakeholders
+Management
+Information Assurance
+IT support 
+Legal Departmet
+Public Affairs  and media Relations
+Human resources 
+Business continuity planners
+Physical security and facilities management
+
+NIST incident resonse life cycle
+1. Preparation 
+2. Detection and Analysis
+3. Containment , Eradication and Recovery 
+4. Post-Incident Activities
+
+
+percusor a sign that threat actor may be preparing to attack an asset
