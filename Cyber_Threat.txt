@@ -133,4 +133,19 @@ NIST incident resonse life cycle
 4. Post-Incident Activities
 
 
+Disaster recovery 
+
+DRP  details of critical business processes that must be restored
+BIA  critical business processess , resources and relationships between system 
+
+types of disaster:  natural and human caused
+
+detective controls
+preventive controls
+corrective controls
+
+recovery yime objectives(RTOs) > TIME THAT SYSTEM CAN BE UNAVAILABLE AFTER DISASTER (maximum tolerable amount of time )
+recovery point objectives(RPOs) average lifespan of given asset before it fails
+mean time to repair(MTTR) > averagr time required to repair a failed component
+mean tine between failures (MTBF) > elapse time between one failure and next
 percusor a sign that threat actor may be preparing to attack an asset
